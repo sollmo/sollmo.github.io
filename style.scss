@@ -20,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/23px $helveticaNeue;
+  font: 16px/23px 'Noto Sans KR', $helveticaNeue;
   color: $gray;
   -webkit-font-smoothing: antialiased;
 }
@@ -278,7 +278,7 @@ img {
 nav {
   float: right;
   margin-top: 23px;
-  font-family: $helveticaNeue; 
+  font-family: 'Noto Sans KR', $helveticaNeue; 
   font-size: 12px;
   
   @include mobile {
