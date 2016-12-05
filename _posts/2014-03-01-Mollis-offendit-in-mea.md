@@ -11,7 +11,6 @@ proj-num: 04
 ## H2 Heading Looks Like This
 
 Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. 
-
 ### H3 Heading Looks Like This
 
 Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.
