@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hotpick Newsfeed Test
-desc: 해외핫딜 뉴스피드와 핫딜별 딜 관련 상세설명 노출 방식 테스트
+title: Hotpick Newsfeed
+desc: 해외핫딜 뉴스피드와 핫딜별 상세설명 노출 방식 테스트
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 01
 ---
