@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Hotpick Newsfeed
+title: Hotpick Newsfeed Test
 desc: 해외핫딜 뉴스피드와 핫딜별 딜 관련 상세설명 노출 방식 테스트
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 01
 ---
 
-![img](https://lorempixel.com/800/600")
+![img](https://lorempixel.com/800/600)
 
 ## H2 Heading Looks Like This
 
