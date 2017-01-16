@@ -1,16 +1,12 @@
 ---
 layout: post
-title: Lorem Ipsum Quid Nostrud
-desc: Te nec mundi mandamus voluptatum. Adhuc nostro id sit, at erat liberavisse eum
+title: Switchable Tab Bar
+desc: description is coming.
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 03
 ---
 
 
-
-## H2 Heading Looks Like This
-
-Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. 
 
 ### H3 Heading Looks Like This
 
