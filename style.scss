@@ -58,7 +58,7 @@ h1 {
 }
 
 .post h1 {
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 100;
   letter-spacing: -.03em;
   line-height: 1.1;
@@ -120,6 +120,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  font-size: 15px;
 }
 
 #home p.site-description {
@@ -189,6 +190,7 @@ img {
 .date {
   font-size: 60%;
   color: $gray;
+  margin-bottom: 20px;
 }
 
 // Specify the color of the selection
