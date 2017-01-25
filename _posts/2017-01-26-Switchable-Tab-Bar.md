@@ -1,25 +1,20 @@
 ---
 layout: post
-title: Switchable <br>Tab Bar
-desc: description is coming.
-proj-url: https://github.com/femmebot/jekyll-grid
+title: Switchable Toolbar
+desc: iOS의 Slide to unlock을 응용하여 두 개의 모드로 스위칭할 수 있는 툴바
+proj-url: https://framer.cloud/kgIkI/
 proj-num: 03
 ---
 
 
 
-### H3 Heading Looks Like This
-
-Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.
-
-1. Sample ordered list
-2. List item 
-3. Another list item
-
-#### H4 Heading Looks Like This
-
-Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.
-
-> This is a sample blockquote. Landjaeger shoulder ham capicola. 
-> Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.
-
+하나의 레이어 위에서 두 종류의 인터랙션이 이루어지는 씬을 상상하고, 
+그에 따라 두 개의 모드를 왔다갔다 스위칭할 수 있는 형태의 Toolbar를 그렸다.
+Map 본연의 기능을 하는 Toolbar 모드와 Map 위에 Drawing을 하는 Toolbar 모드를 오고가는 Switchable Toolbar.  
+iOS의 Slide to unlock을 바라보다 7년전에 학교에서 과제로 제작했던 [컨셉](https://youtu.be/WHAhTREt0Ug){:target="_blank"}을 기억해보고 빠르게 프로토타이핑 해봄.
+  
+<br>  
+<video width="500" height="500" autoplay loop poster="http://sollmo.github.io/video/loading.png">
+  <source src="http://sollmo.github.io/video/video_switchable_toolbar.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
