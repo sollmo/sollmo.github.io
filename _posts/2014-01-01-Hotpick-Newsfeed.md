@@ -15,7 +15,7 @@ proj-num: 01
 딜에 접근할 때 접어두는 영역을 살짝 노출시켜줘서 펼침 가능 영역이라는 것을 살짝 어필시키는 방향으로 테스트.  
   
 <br>  
-<video width="500" height="500" autoplay loop>
+<video width="500" height="500" autoplay loop poster="http://sollmo.github.io/video/loading.png">
   <source src="http://sollmo.github.io/video/video_hotpick.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
