@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switchable<br> Toolbar
-desc: iOS의 Slide to unlock을 응용, 서로 다른 모드로 스위칭할 수 있는 툴바
+desc: iOS의 Slide to unlock을 응용하여, 서로 다른 모드로 왔다갔다 스위칭할 수 있는 툴바
 proj-url: https://framer.cloud/kgIkI/
 proj-num: 03
 ---
