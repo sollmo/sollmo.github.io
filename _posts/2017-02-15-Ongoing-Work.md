@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project To Do
+title: Ongoing work
 desc: description is coming.
-proj-url: https://github.com/femmebot/jekyll-grid
+proj-url: https://github.com/sollmo
 proj-num: 04
 ---
 
