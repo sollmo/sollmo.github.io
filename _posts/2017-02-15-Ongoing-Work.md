@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ongoing work
+title: The chart linked with timeline
 desc: description is coming.
 proj-url: https://github.com/sollmo
 proj-num: 04
