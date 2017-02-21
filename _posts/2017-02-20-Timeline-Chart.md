@@ -16,6 +16,6 @@ proj-num: 04
 반대로 그래프를 스크롤할 때 하단의 리스트가 따라 움직이는 것은 살짝 불편한 느낌도 있는 듯 하다.  
 (스크롤 할 때 손으로 가려지는 하단 영역이 움직이는 것도 한 몫 하는 듯)  
 두 scroll content의 width, height가 같지 않고, 화면 내에 보이는 개수도 달라서  
-scroll.speed와 draggable.momentumOptions 조절을 통해 연계된 움직임이 자연스러운 지점을 찾는 것도 중요한 듯.  
+scroll.speed와 draggable.momentumOptions 조절을 통해 scroll content의 적절한 무게감을 찾아 주는 것도 중요한 듯.  
   
 
