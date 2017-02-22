@@ -16,7 +16,12 @@ proj-num: 04
 반대로 그래프를 스크롤할 때 하단의 리스트가 따라 움직이는 것은 살짝 불편한 느낌도 있는 듯 하다.    
 두 scroll content의 width, height가 같지 않고, 화면 내에 보이는 개수도 달라서  
 scroll.speed와 draggable.momentumOptions 조절을 통해 scroll content의 적절한 무게감을 찾아 주는 것도 중요한 듯.  
-  
+  
+<br>  
+<video width="480" height="480" autoplay loop poster="http://sollmo.github.io/video/loading.png">
+  <source src="http://sollmo.github.io/video/video_timeline.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
   
   
 
