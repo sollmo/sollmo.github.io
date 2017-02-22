@@ -14,7 +14,7 @@ proj-num: 03
 iOS의 Slide to unlock을 추억하다 7년전에 학교에서 과제로 제작했던 [컨셉](https://youtu.be/WHAhTREt0Ug){:target="_blank"}을 기억해보고 구현.  
   
 <br>  
-<video width="500" height="500" autoplay loop poster="http://sollmo.github.io/video/loading.png">
+<video width="480" height="480" autoplay loop poster="http://sollmo.github.io/video/loading.png">
   <source src="http://sollmo.github.io/video/video_switchable_toolbar.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
